@@ -2,6 +2,12 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.5 (2026-09-14)
+
+- Player Care on the device page: Check my player looks over the card for half-copied files, computer leftovers, songs the player can't play, duplicates, empty folders, a full card and its format, with one-click fixes that only touch what the report lists.
+- Battery saver: a switch that puts MP3 on the player instead of lossless formats on the next sync; your library keeps the originals.
+- Card check and repair using Windows' own tools, and a helper that puts a firmware file you downloaded onto the card.
+
 ## 0.2.4 (2026-09-14)
 
 - Wording in the Audible setup now speaks to you directly.
@@ -32,6 +38,7 @@ All notable changes to Storm Veil Tune Deck. Newest first.
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
