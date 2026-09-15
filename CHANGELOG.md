@@ -2,6 +2,12 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.3 (2026-09-14)
+
+- Single-file audiobooks (M4B, or MP3/MP4 with chapter markers) are split into one file per chapter on import, so the player can list, jump between and resume chapters. Works for Add Audiobooks, drag and drop, and Libation downloads.
+- Settings → Audiobooks → Remove all audiobooks clears the audiobook library in one step; files inside the library folder are only deleted if you say so, files elsewhere are never touched.
+- Audible downloads now stay in Libation's Books folder instead of being copied into the library folder (a switch in Settings keeps a second copy if you prefer).
+
 ## 0.2.2 (2026-09-14)
 
 - Audiobooks now go into the player's own AUDIOBOOK folder, so the F22's Audiobook menu, resume and bookmarks work. Books put there by an earlier version are moved on the next sync, not copied again.
@@ -22,6 +28,7 @@ All notable changes to Storm Veil Tune Deck. Newest first.
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
