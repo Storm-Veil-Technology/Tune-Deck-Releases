@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.4 (2026-09-14)
+
+- Wording in the Audible setup now speaks to you directly.
+
 ## 0.2.3 (2026-09-14)
 
 - Single-file audiobooks (M4B, or MP3/MP4 with chapter markers) are split into one file per chapter on import, so the player can list, jump between and resume chapters. Works for Add Audiobooks, drag and drop, and Libation downloads.
@@ -28,6 +32,7 @@ All notable changes to Storm Veil Tune Deck. Newest first.
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
