@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.7 (2026-09-15)
+
+Choose several Sets per player: click a Set on the Device page, the Sets page or a Set's own page to put it on the player or take it off. A song in several chosen Sets is only copied once, and taking a Set off leaves songs other chosen Sets still want. Battery saver is now 'MP3 only on this player': turn it on and the next sync puts every song on that player as MP3, converting M4A, FLAC, WAV and the rest on the way, without touching your other players. Phones now receive MP3, WAV and OGG only, so a flip phone stops getting M4A.
+
 ## 0.2.6 (2026-09-15)
 
 - Phones now work as players: plug in an Android phone (like the Kyocera DuraXV) with File transfer chosen, and Tune Deck lists it and syncs music, audiobooks and playlists to it.
@@ -44,6 +48,7 @@ All notable changes to Storm Veil Tune Deck. Newest first.
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
