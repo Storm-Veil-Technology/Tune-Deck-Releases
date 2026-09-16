@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.9 (2026-09-15)
+
+Choose where on a device music goes. A phone with an SD card now shows both storages on the Device page under 'Where should music go?': pick one and the next sync fills it, with the option to remove the files Tune Deck had put on the other storage. The SD card is no longer mistaken for a second player.
+
 ## 0.2.8 (2026-09-15)
 
 Audiobooks now go on a player through Sets, just like music: put the Audiobooks Set (or any Set holding books) on the player from the Device page, take it off to remove the books. The old 'Keep Audiobooks on Device' setting is gone; if you relied on it, an Audiobooks Set holding every book is created and chosen on every player so nothing disappears. Unchecking 'Always keep on my player' on the Audiobooks Set now sticks (the Audible setup used to switch it back on). Add Audiobooks preselects the Set your books live in.
@@ -52,6 +56,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
