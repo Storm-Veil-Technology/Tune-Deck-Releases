@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.8 (2026-09-15)
+
+Audiobooks now go on a player through Sets, just like music: put the Audiobooks Set (or any Set holding books) on the player from the Device page, take it off to remove the books. The old 'Keep Audiobooks on Device' setting is gone; if you relied on it, an Audiobooks Set holding every book is created and chosen on every player so nothing disappears. Unchecking 'Always keep on my player' on the Audiobooks Set now sticks (the Audible setup used to switch it back on). Add Audiobooks preselects the Set your books live in.
+
 ## 0.2.7 (2026-09-15)
 
 Choose several Sets per player: click a Set on the Device page, the Sets page or a Set's own page to put it on the player or take it off. A song in several chosen Sets is only copied once, and taking a Set off leaves songs other chosen Sets still want. Battery saver is now 'MP3 only on this player': turn it on and the next sync puts every song on that player as MP3, converting M4A, FLAC, WAV and the rest on the way, without touching your other players. Phones now receive MP3, WAV and OGG only, so a flip phone stops getting M4A.
@@ -48,6 +52,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
