@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.11 (2026-09-16)
+
+Remove songs, albums and artists from your library. Right-click a song, album or artist (or press Delete on selected songs, or the trash button on an open album or artist) and choose what happens to the files: move them to the Recycle Bin (the default, so you can restore them), delete them permanently (only files inside the Tune Deck library folder), or keep them. Removed items also leave their Sets and come off the player at its next sync. Audiobook removal uses the same choice, and Find Duplicates now sends unwanted files to the Recycle Bin.
+
 ## 0.2.10 (2026-09-15)
 
 Phones now notice new songs. Files go onto a phone under their final names (a renamed upload was filed as 'not media' by Android, so the phone's music app never listed it), and after every sync that changed something Tune Deck makes the phone re-read its Music, Audiobooks and Playlists folders. The Device page has a 'Tell the phone to look again' button for the same nudge by hand. Press it once, or sync once, so songs already on the phone get picked up.
@@ -60,6 +64,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
