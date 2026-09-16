@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.10 (2026-09-15)
+
+Phones now notice new songs. Files go onto a phone under their final names (a renamed upload was filed as 'not media' by Android, so the phone's music app never listed it), and after every sync that changed something Tune Deck makes the phone re-read its Music, Audiobooks and Playlists folders. The Device page has a 'Tell the phone to look again' button for the same nudge by hand. Press it once, or sync once, so songs already on the phone get picked up.
+
 ## 0.2.9 (2026-09-15)
 
 Choose where on a device music goes. A phone with an SD card now shows both storages on the Device page under 'Where should music go?': pick one and the next sync fills it, with the option to remove the files Tune Deck had put on the other storage. The SD card is no longer mistaken for a second player.
@@ -56,6 +60,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
