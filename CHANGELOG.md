@@ -2,6 +2,12 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.6 (2026-09-15)
+
+- Phones now work as players: plug in an Android phone (like the Kyocera DuraXV) with File transfer chosen, and Tune Deck lists it and syncs music, audiobooks and playlists to it.
+- Player types: each player is a Surfans F22, an Android phone or tablet, a Rockbox player or another MP3 player, which sets its folder layout and formats. Tune Deck asks once when a new player is adopted; change it under Advanced on the player page.
+- The player page and sidebar show whatever player you use instead of assuming a Surfans.
+
 ## 0.2.5 (2026-09-14)
 
 - Player Care on the device page: Check my player looks over the card for half-copied files, computer leftovers, songs the player can't play, duplicates, empty folders, a full card and its format, with one-click fixes that only touch what the report lists.
@@ -38,6 +44,7 @@ All notable changes to Storm Veil Tune Deck. Newest first.
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
