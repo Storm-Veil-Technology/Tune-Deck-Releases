@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.12 (2026-09-16)
+
+Make Tune Deck yours. Settings → Appearance now lets you pick the theme (dark, light or match Windows), an accent colour (ten presets, your Windows accent colour, or any colour code, with shades adjusted so text stays readable), text and icon size from 90% to 150%, the font, which page Tune Deck opens on, and whether the sidebar tagline and button glow show. Changes apply straight away and are saved on this computer only, no account needed. Reset to the Storm Veil look puts everything back.
+
 ## 0.2.11 (2026-09-16)
 
 Remove songs, albums and artists from your library. Right-click a song, album or artist (or press Delete on selected songs, or the trash button on an open album or artist) and choose what happens to the files: move them to the Recycle Bin (the default, so you can restore them), delete them permanently (only files inside the Tune Deck library folder), or keep them. Removed items also leave their Sets and come off the player at its next sync. Audiobook removal uses the same choice, and Find Duplicates now sends unwanted files to the Recycle Bin.
@@ -64,6 +68,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
