@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.13 (2026-09-17)
+
+Playlists, repeat and shuffle. A new Playlists page holds your songs in your own order (create, reorder, play or shuffle-play), and songs, albums and artists on the Music page can be added with Add to Playlist. Add a playlist to a Set and its songs go to your player, where the playlist also shows up in the Playlists menu as its own playlist, in your order. The now-playing bar gains shuffle and a repeat button (off, everything, this album, this song). Picking several songs, albums or artists to add to a Set works again (only one could be ticked). Rockbox players, now including the Surfans F20 and Eros Q, get playlists that work with accented song names, and their bookmarks are kept during syncs.
+
 ## 0.2.12 (2026-09-16)
 
 Make Tune Deck yours. Settings → Appearance now lets you pick the theme (dark, light or match Windows), an accent colour (ten presets, your Windows accent colour, or any colour code, with shades adjusted so text stays readable), text and icon size from 90% to 150%, the font, which page Tune Deck opens on, and whether the sidebar tagline and button glow show. Changes apply straight away and are saved on this computer only, no account needed. Reset to the Storm Veil look puts everything back.
@@ -68,6 +72,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
