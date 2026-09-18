@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.15 (2026-09-17)
+
+Play next and Up next. Right-click songs, albums or artists (or use the buttons on a playlist) to play them next or add them to the end of the queue. The new queue button on the now-playing bar opens Up next, where you can see what's coming, play any song now, move songs up or down, take them out, or clear the rest of the queue.
+
 ## 0.2.14 (2026-09-17)
 
 Windows media controls, playback speed and a sleep timer. Keyboard media keys, Bluetooth headphone buttons, the volume pop-up and the lock screen now control Tune Deck even when another window is in front, and show what's playing with its artwork. The now-playing bar gains a speed button (0.75x to 2x, remembered separately for audiobooks and music) and a sleep timer: 15 minutes to 1.5 hours with a gentle fade-out, or at the end of the current song or chapter, keeping your place in the book. Requires Windows 10 version 1809 or later.
@@ -76,6 +80,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
