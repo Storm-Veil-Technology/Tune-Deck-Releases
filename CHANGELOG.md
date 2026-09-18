@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.2.14 (2026-09-17)
+
+Windows media controls, playback speed and a sleep timer. Keyboard media keys, Bluetooth headphone buttons, the volume pop-up and the lock screen now control Tune Deck even when another window is in front, and show what's playing with its artwork. The now-playing bar gains a speed button (0.75x to 2x, remembered separately for audiobooks and music) and a sleep timer: 15 minutes to 1.5 hours with a gentle fade-out, or at the end of the current song or chapter, keeping your place in the book. Requires Windows 10 version 1809 or later.
+
 ## 0.2.13 (2026-09-17)
 
 Playlists, repeat and shuffle. A new Playlists page holds your songs in your own order (create, reorder, play or shuffle-play), and songs, albums and artists on the Music page can be added with Add to Playlist. Add a playlist to a Set and its songs go to your player, where the playlist also shows up in the Playlists menu as its own playlist, in your order. The now-playing bar gains shuffle and a repeat button (off, everything, this album, this song). Picking several songs, albums or artists to add to a Set works again (only one could be ticked). Rockbox players, now including the Surfans F20 and Eros Q, get playlists that work with accented song names, and their bookmarks are kept during syncs.
@@ -72,6 +76,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
