@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.5.0 (2026-09-19)
+
+- New: Wireless sync. Turn it on under Settings → Wireless sync, and the Tune Deck player can pull your Sets, download their songs, and pick up your audiobook positions over Wi-Fi — no cable needed. The player finds this computer automatically on the same network (or you can type its address).
+
 ## 0.4.0 (2026-09-19)
 
 - Audiobooks now go on your player as one MP3 per chapter by default, so its Audiobook menu, resume and bookmarks work reliably. Toggle under Settings → Sync.
@@ -91,6 +95,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
