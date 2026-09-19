@@ -2,6 +2,12 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.4.0 (2026-09-19)
+
+- Audiobooks now go on your player as one MP3 per chapter by default, so its Audiobook menu, resume and bookmarks work reliably. Toggle under Settings → Sync.
+- Audiobook positions now sync both ways with the Tune Deck player: pick up where you left off on either device (newest position wins).
+- Release builds can now be optionally code-signed.
+
 ## 0.3.0 (2026-09-19)
 
 - **Cast to player:** stream this computer's audio to your Tune Deck player over the network — a browser tab, a video, anything. The player finds this PC on its own.
@@ -85,6 +91,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
