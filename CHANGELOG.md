@@ -2,6 +2,11 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.3.0 (2026-09-19)
+
+- **Cast to player:** stream this computer's audio to your Tune Deck player over the network — a browser tab, a video, anything. The player finds this PC on its own.
+- **Companion sync:** your Sets now travel to the player when you sync, so the phone or DAP rebuilds them automatically.
+
 ## 0.2.15 (2026-09-17)
 
 Play next and Up next. Right-click songs, albums or artists (or use the buttons on a playlist) to play them next or add them to the end of the queue. The new queue button on the now-playing bar opens Up next, where you can see what's coming, play any song now, move songs up or down, take them out, or clear the rest of the queue.
@@ -80,6 +85,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
