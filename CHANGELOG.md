@@ -2,6 +2,11 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.8.0 (2026-09-19)
+
+- Cast: choose which PC audio to send. A new "PC audio source" picker lets you send a specific playback device to the player — pair it with a virtual audio cable (e.g. VB-CABLE) and audio plays only on the player, not the PC speakers.
+- Cast now auto-plays on a connected Wi-Fi player: hit Start casting and it begins playing on the phone automatically (and stops when you stop).
+
 ## 0.7.0 (2026-09-19)
 
 - New: automatic Wi-Fi sync. Turn on "Sync players automatically when they connect over Wi-Fi" in Settings, and a player you've set up syncs its chosen Sets on its own whenever it appears on the network — leave a docked player to keep itself up to date, hands-off.
@@ -105,6 +110,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
