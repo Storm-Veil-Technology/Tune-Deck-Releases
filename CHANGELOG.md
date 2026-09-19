@@ -2,6 +2,11 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.6.0 (2026-09-19)
+
+- New: sync to your phone over Wi-Fi, cable-free. Turn on "Wireless sync" in the Tune Deck phone app, and the phone shows up on the computer like a plugged-in player — pick your Sets and hit Sync to Device, and the songs transfer over Wi-Fi.
+- This build is code-signed for the first time (self-signed): installs on trusting machines show "Storm Veil Technologies" as the publisher instead of "Unknown".
+
 ## 0.5.0 (2026-09-19)
 
 - New: Wireless sync. Turn it on under Settings → Wireless sync, and the Tune Deck player can pull your Sets, download their songs, and pick up your audiobook positions over Wi-Fi — no cable needed. The player finds this computer automatically on the same network (or you can type its address).
@@ -95,6 +100,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
