@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.8.1 (2026-09-19)
+
+Fixes automatic updates: a downloaded update now installs the next time you open Tune Deck, instead of waiting until you press "Restart to update". (Coming from an older build? One manual update via Settings -> Check for updates -> Restart to update gets you onto this one.)
+
 ## 0.8.0 (2026-09-19)
 
 - Cast: choose which PC audio to send. A new "PC audio source" picker lets you send a specific playback device to the player — pair it with a virtual audio cable (e.g. VB-CABLE) and audio plays only on the player, not the PC speakers.
@@ -110,6 +114,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
