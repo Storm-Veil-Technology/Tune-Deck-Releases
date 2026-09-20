@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.8.2 (2026-09-19)
+
+Signed build. Same as 0.8.1: fixes automatic updates so a downloaded update installs the next time you open Tune Deck, instead of waiting until you press "Restart to update". (Coming from an older build? One manual update via Settings -> Check for updates -> Restart to update gets you onto this one.)
+
 ## 0.8.1 (2026-09-19)
 
 Fixes automatic updates: a downloaded update now installs the next time you open Tune Deck, instead of waiting until you press "Restart to update". (Coming from an older build? One manual update via Settings -> Check for updates -> Restart to update gets you onto this one.)
@@ -114,6 +118,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
