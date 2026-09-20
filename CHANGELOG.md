@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.0 (2026-09-20)
+
+Pictures. Import images on your computer (new Pictures tab), add them to a Set, and they ride along to your device's Pictures folder just like your music and audiobooks. On the Tune Deck phone app they show up in a new Pictures gallery you can swipe through, and you can use any of them as the app's background.
+
 ## 0.8.2 (2026-09-19)
 
 Signed build. Same as 0.8.1: fixes automatic updates so a downloaded update installs the next time you open Tune Deck, instead of waiting until you press "Restart to update". (Coming from an older build? One manual update via Settings -> Check for updates -> Restart to update gets you onto this one.)
@@ -118,6 +122,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
