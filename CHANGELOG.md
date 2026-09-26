@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.3 (2026-09-26)
+
+The phone can now pause, play and skip whatever else is playing on the computer while casting - a YouTube story in the browser, for example - and shows its title. Tune Deck's own player still takes over whenever it is the one playing.
+
 ## 0.9.2 (2026-09-26)
 
 Casting stays in step with your phone: pausing, playing or skipping on either the computer or the phone is reflected on the other, and the phone shows the desktop's current song. Needs Tune Deck for Android 0.9.3.
@@ -130,6 +134,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
