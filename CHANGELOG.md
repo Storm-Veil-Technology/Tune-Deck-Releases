@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.2 (2026-09-26)
+
+Casting stays in step with your phone: pausing, playing or skipping on either the computer or the phone is reflected on the other, and the phone shows the desktop's current song. Needs Tune Deck for Android 0.9.3.
+
 ## 0.9.1 (2026-09-20)
 
 Pictures polish. On the computer you can now Add a whole folder of pictures at once, and the Pictures view groups them by folder. On the phone, tapping a picture opens it full-screen (with a Use as background button), instead of doing nothing.
@@ -126,6 +130,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
