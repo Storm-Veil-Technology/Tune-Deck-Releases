@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.4 (2026-09-26)
+
+Sets sync fixes. 'Always keep' is now per player: a Set pinned on one tablet no longer shows up on everyone else's. The Set list sent to a player only includes songs that actually made it onto it, and a Set's audiobooks now travel with it so they show inside the Set on Tune Deck for Android 0.9.4.
+
 ## 0.9.3 (2026-09-26)
 
 The phone can now pause, play and skip whatever else is playing on the computer while casting - a YouTube story in the browser, for example - and shows its title. Tune Deck's own player still takes over whenever it is the one playing.
@@ -134,6 +138,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
