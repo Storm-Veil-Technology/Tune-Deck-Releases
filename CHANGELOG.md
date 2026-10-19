@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.5 (2026-10-18)
+
+Audible downloads now show real progress: how much of the book has come down, when it's converting, and how many more are waiting.
+
 ## 0.9.4 (2026-09-26)
 
 Sets sync fixes. 'Always keep' is now per player: a Set pinned on one tablet no longer shows up on everyone else's. The Set list sent to a player only includes songs that actually made it onto it, and a Set's audiobooks now travel with it so they show inside the Set on Tune Deck for Android 0.9.4.
@@ -138,6 +142,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
