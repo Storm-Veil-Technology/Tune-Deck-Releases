@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.7 (2026-10-26)
+
+Add single songs from the Music page (beside Add Folder). Music and audiobooks added from your Downloads folder are now moved into the library rather than left behind as copies; files from anywhere else are still only copied.
+
 ## 0.9.6 (2026-10-18)
 
 Fixes Sets not updating on phones and tablets after the first USB sync: the Set list is now kept in a visible TuneDeck folder on the device, which Android lets us rewrite. Needs Tune Deck for Android 0.9.5. A sync that can't write the Set list now tells you.
@@ -146,6 +150,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
