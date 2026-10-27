@@ -2,6 +2,10 @@
 
 All notable changes to Storm Veil Tune Deck. Newest first.
 
+## 0.9.8 (2026-10-26)
+
+When an Audible download fails, Tune Deck now shows Libation's actual reason instead of guessing you need to sign in.
+
 ## 0.9.7 (2026-10-26)
 
 Add single songs from the Music page (beside Add Folder). Music and audiobooks added from your Downloads folder are now moved into the library rather than left behind as copies; files from anywhere else are still only copied.
@@ -150,6 +154,7 @@ Choose several Sets per player: click a Set on the Device page, the Sets page or
 ## 0.1.0 (2026-09-14)
 
 - First release: Sets, sync to the Surfans F22, audiobooks, backups, format conversion and self-updating installer.
+
 
 
 
